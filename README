@@ -1,1 +1,3 @@
 Robot permettant de scanner les résultats du concours d'aggrégation et d'envoyer un email quand une certaine personne est admise.
+
+A faire tourner sur un compte GAE par exemple.
